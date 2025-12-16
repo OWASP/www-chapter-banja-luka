@@ -1,0 +1,27 @@
+community:
+  - name: chapter-banja-luka
+    platform: slack
+    url: https://owasp.slack.com/archives/C08EWFHP4DD
+leaders:
+  - name: Vanja Popovic
+    email: vanja.popovic@owasp.org
+    github: laFlamaBlanca988
+  - name: Adam Maric
+    email: adam.maric@owasp.org
+location:
+  country: Bosnia and Herzegovina
+  country_code: BA
+  region: Republika Srpska
+  city: Banja Luka
+  latitude: 44.7720845
+  longitude: 17.1917651
+name: OWASP Banja Luka Chapter
+repositories:
+  - name: www-chapter-banja-luka
+    url: https://github.com/OWASP/www-chapter-banja-luka
+    description: OWASP Foundation web repository
+tags:
+  - Banja
+  - Luka
+  - custom-tag-1
+website: https://owasp.org/www-chapter-banja-luka
