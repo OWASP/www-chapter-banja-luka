@@ -7,7 +7,7 @@ country: Bosnia & Herzegovina
 meetup-group:
 ---
 
-  <img src="/assets/images/owasp-banja-luka.png" style="width: 100%;  marginBottom: 50px;" alt="OWASP Banja Luka">
+  <img src="https://owasp.org/www-chapter-banja-luka/assets/images/owasp-banja-luka.png" style="width: 100%;  marginBottom: 50px;" alt="OWASP Banja Luka">
 
 ## Welcome
 
